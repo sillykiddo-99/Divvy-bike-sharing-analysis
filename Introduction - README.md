@@ -51,7 +51,7 @@ The shape map of Chicago is also collected through The City of Chicago's open da
 ## 2. Data cleaning and Exploratory analysis:
 
 This step focus on understand the data and deriving other measures that can be useful for analysis.
-I used pandas libraries for cleaning and exploring the dataset, the notebook can be found here: []
+I used pandas libraries for cleaning and exploring the dataset, the notebook can be found here: [https://github.com/sillykiddo-99/Divvy-bike-sharing-analysis/blob/main/divvy_cleaning.ipynb]
 
 ### 2.1 Understand the data:
 The bike rides dataset consist of 12 columns, covering:
