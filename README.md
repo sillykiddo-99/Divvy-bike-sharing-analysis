@@ -90,4 +90,4 @@ The bike rides dataset consist of 12 columns, covering:
 ## 3.Data visualization and Insights presentation:
 For Power BI interactive mode, please visit here: [https://tinyurl.com/powerBI-DivvyAnalysis]
 
-For PDF presentation, please visit here: [https://1drv.ms/b/c/7d52ce8b06803f0e/EQ3Y_nkcgehNtTHHXnX6UJ8BIhMnOxu-k0ddxB0VfxNWqw?e=eqfceI]
+For PDF presentation, please visit here: [https://drive.google.com/file/d/1JpjaqJ6PWMmpsK0jCoOm3cZKnwWu9u6x/view?usp=sharing]
