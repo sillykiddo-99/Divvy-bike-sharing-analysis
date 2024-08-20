@@ -1,6 +1,7 @@
 # Divvy - Data Analysis project:
 The Divvy Project focus on utilizing bike ride data **(as of July-2024)** to produce meaningful actions for Divvy - a bike sharing company in Chicago - on improving their electric bike leasing to non-member customers which help increase the opportunity to convert them to members.
 Presentation is at: [https://tinyurl.com/powerBI-DivvyAnalysis]
+Full length article: Knowing when and where to boost e-bike rides for Divvy casual users via [https://tinyurl.com/Divvy-Article]
 
 ## Key findings:
 **1. Overview and problem:**
@@ -22,9 +23,6 @@ Presentation is at: [https://tinyurl.com/powerBI-DivvyAnalysis]
 - Beside knowing when to promote, where to promote is also important:
   - West Loop, River North, Lake View, Lincoln Park are 4 key areas during weekday
   - Lake View, Lincoln Park are the focus for weekend.
-
-### Full length article: 
-Knowing when and where to boost e-bike rides for Divvy casual users via [https://medium.com/@tamlai.ftu/knowing-when-and-where-to-boost-e-bike-rides-for-divvy-casual-users-386821749618]
 
 # About the project:
 
