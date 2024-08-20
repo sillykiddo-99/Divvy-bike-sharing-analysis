@@ -23,6 +23,9 @@ Presentation is at: [https://tinyurl.com/powerBI-DivvyAnalysis]
   - West Loop, River North, Lake View, Lincoln Park are 4 key areas during weekday
   - Lake View, Lincoln Park are the focus for weekend.
 
+### Full length article: 
+Knowing when and where to boost e-bike rides for Divvy casual users via [https://medium.com/@tamlai.ftu/knowing-when-and-where-to-boost-e-bike-rides-for-divvy-casual-users-386821749618]
+
 # About the project:
 
 This is my data analysis portfolio project with the end-to-end workflow of 3 steps:
