@@ -5,6 +5,8 @@ Presentation is at: [Divvy presentation](https://tinyurl.com/powerBI-DivvyAnalys
 
 Full length article: [Knowing when and where to boost e-bike rides for Divvy casual users](https://tinyurl.com/Divvy-Article)
 
+Data cleaning and exploratory analysis: [divvy_cleaning.ipynb](https://github.com/tamlai-portfolio/Divvy-bike-sharing-analysis/blob/main/divvy_cleaning.ipynb)
+
 ## Key findings:
 **1. Overview and problem:**
 - While the performance over the last 12 months of Divvy is stable with 5.3 million rides (equal to performance of previous same period), there has been a 10% decline in terms of e-bike rides which is the main revenue driver of the company.
