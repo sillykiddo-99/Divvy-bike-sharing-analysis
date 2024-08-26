@@ -1,9 +1,9 @@
 # Divvy - Data Analysis project:
 The Divvy Project focus on utilizing bike ride data **(as of July-2024)** to produce meaningful actions for Divvy - a bike sharing company in Chicago - on improving their electric bike leasing to non-member customers which help increase the opportunity to convert them to members.
 
-Presentation is at: [https://tinyurl.com/powerBI-DivvyAnalysis]
+Presentation is at: [Divvy presentation](https://tinyurl.com/powerBI-DivvyAnalysis)
 
-Full length article: Knowing when and where to boost e-bike rides for Divvy casual users via [https://tinyurl.com/Divvy-Article]
+Full length article: [Knowing when and where to boost e-bike rides for Divvy casual users](https://tinyurl.com/Divvy-Article)
 
 ## Key findings:
 **1. Overview and problem:**
