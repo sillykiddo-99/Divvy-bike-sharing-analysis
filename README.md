@@ -92,5 +92,7 @@ The bike rides dataset consist of 12 columns, covering:
 
 ## 3.Data visualization and Insights presentation:
 Presentation is at: [Divvy presentation](https://tinyurl.com/powerBI-DivvyAnalysis)
+
 Full length article: [Knowing when and where to boost e-bike rides for Divvy casual users](https://tinyurl.com/Divvy-Article)
+
 For PDF presentation, please visit [Divvy Data Analysis Project.pdf](https://github.com/tamlai-portfolio/Divvy-bike-sharing-analysis/blob/main/Divvy%20Data%20Analysis%20Project.pdf) 
